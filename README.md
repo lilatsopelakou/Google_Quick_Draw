@@ -9,4 +9,4 @@ Quick, Draw! is an online game developed by Google that challenges players to dr
 
 The Quick Draw Dataset is a collection of 50 million drawings across 345 categories, contributed by players of the game Quick, Draw!. The drawings were captured as timestamped vectors, tagged with metadata including what the player was asked to draw and in which country the player was located. You can browse the recognized drawings on quickdraw.withgoogle.com/data.
 
-![Optional Text](../master/Quick! Draw Images/index.png)
+![myimage-alt-tag](https://www.google.com/search?q=quick+draw&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjc466i1rLdAhWE66QKHcTEA6kQ_AUIDCgD&biw=1787&bih=867#imgrc=efbmYhXKXArXVM:)
