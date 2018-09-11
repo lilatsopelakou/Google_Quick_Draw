@@ -4,7 +4,7 @@ import keras
 import numpy as np
 app = Flask(__name__)
 
-model_path = os.path.join(os.getcwd(), "..", "model/model-v1.h5")
+model_path = os.path.join(os.getcwd(), "..", "quickdraw_neuralnet.h5")
 model = keras.models.load_model(model_path)
 
 @app.route("/")
