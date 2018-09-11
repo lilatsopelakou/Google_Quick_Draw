@@ -5,8 +5,8 @@ services:
       context: .
       dockerfile: Dockerfile.train
     volumes:
-      - ./src:/home/quickdraw-ten/src
-      - ./data:/home/quickdraw-ten/data
-      - ./model:/home/quickdraw-ten/model
+      - ./Google-QuickDraw2-2.ipynb
+      - ./data-download.sh
+      - ./Google-QuickDraw2-2.ipynb
     ports:
       - 8888:8888
